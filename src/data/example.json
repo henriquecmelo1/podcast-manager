@@ -1,0 +1,9 @@
+{
+    "podcastName":"Name of the Podcast",
+    "episode":"Title of the Episode",
+    "videoID": "Unique Video ID",
+    "thumbnail":"URL of the Thumbnail",
+    "link":"URL of the Podcast Episode",
+    "category": ["Category1", "Category2"]
+
+}
